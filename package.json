@@ -8,8 +8,7 @@
         "build": "ng build",
         "test": "ng test",
         "lint": "ng lint",
-        "e2e": "ng e2e",
-        "sw": "sw-precache --root=dist --config=sw-precache-config.js"
+        "e2e": "ng e2e"
     },
     "private": true,
     "dependencies": {
@@ -28,6 +27,7 @@
     "devDependencies": {
         "@angular/cli": "1.0.0",
         "@angular/compiler-cli": "^4.0.0",
+        "@angular/service-worker": "^1.0.0-beta.8",
         "@types/jasmine": "2.5.46",
         "@types/node": "~7.0.11",
         "codelyzer": "~3.0.0-beta.4",
@@ -43,6 +43,6 @@
         "sw-precache": "^5.1.0",
         "ts-node": "~3.0.2",
         "tslint": "^5.0.0-dev.0",
-        "typescript": "^2.3.0-dev.20170325"
+        "typescript": "^2.2.0"
     }
 }
