@@ -1,4 +1,5 @@
-import { Component, ChangeDetectionStrategy } from '@angular/core';
+import { Component, ChangeDetectionStrategy, OnInit } from '@angular/core';
+import { Title } from '@angular/platform-browser';
 
 @Component({
     selector: 'app-root',
@@ -6,6 +7,11 @@ import { Component, ChangeDetectionStrategy } from '@angular/core';
     styleUrls: ['./app.component.scss'],
     changeDetection: ChangeDetectionStrategy.OnPush
 })
-export class AppComponent {
-    title = 'app works!';
+export class AppComponent implements OnInit {
+    title = 'app works!! With Title Service';
+    constructor(private titleService: Title) { }
+
+    ngOnInit(): void {
+        this.titleService.setTitle('Project One -- Home -- Welcome');
+    }
 }
