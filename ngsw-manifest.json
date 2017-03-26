@@ -1,0 +1,27 @@
+{
+  "static": {
+    "urls": {
+      "https://debanjanbasu.github.io/project-one/polyfills.370a799c6d7d6834f72e.bundle.js": "6d61deace215d3753155a89b616a08c900174187",
+      "https://debanjanbasu.github.io/project-one/main.365dec14404201b7f416.bundle.js": "963f7cea763e47eaa83612b7daa8c959e6051efd",
+      "https://debanjanbasu.github.io/project-one/sw-register.b73048fe3d9f8a1e7ae5.bundle.js": "a98270c864fc34e37b1d992bfe5994323558c2f8",
+      "https://debanjanbasu.github.io/project-one/vendor.e1945912b3ad084fba74.bundle.js": "39c36cfd760b337f0b501b1b920bd5f02523cfbe",
+      "https://debanjanbasu.github.io/project-one/inline.1df648ca7f3751b5d25b.bundle.js": "fb2d6ddf0a3ebced43a139297a4dc5292590f201",
+      "https://debanjanbasu.github.io/project-one/styles.fa360e849a99da1c82a0.bundle.css": "ba753cffda203d79d4d70069a851d2cfacca6fc6",
+      "https://debanjanbasu.github.io/project-one/assets/.DS_Store": "c43f11fc558b52600e0d53b75cf5ea0c1a1112b9",
+      "https://debanjanbasu.github.io/project-one/assets/favicons/android-chrome-192x192.png": "33d523a7e77298facc47f9c8b01394a06bd73cd8",
+      "https://debanjanbasu.github.io/project-one/assets/favicons/android-chrome-256x256.png": "ad37b0a18c9fb1817831411e4934cb8fb144562b",
+      "https://debanjanbasu.github.io/project-one/assets/favicons/apple-touch-icon.png": "61fa9a29a4576d7ab848f12dd7ad8db8d5978169",
+      "https://debanjanbasu.github.io/project-one/assets/favicons/browserconfig.xml": "e73412a90a2fac17a08b2ce8d0580bae3211238d",
+      "https://debanjanbasu.github.io/project-one/assets/favicons/favicon-16x16.png": "4211ca4f427ac33fc7256dc43de241f23a574146",
+      "https://debanjanbasu.github.io/project-one/assets/favicons/favicon-32x32.png": "2b26d297d1dae092520275a3a0ca30950f243639",
+      "https://debanjanbasu.github.io/project-one/assets/favicons/favicon.ico": "81c385818a77b34f96d44068f8ac47d5bbeab3b5",
+      "https://debanjanbasu.github.io/project-one/assets/favicons/mstile-150x150.png": "c6e0c8109f3a32aaaf8f7a27a41662ac6db435ff",
+      "https://debanjanbasu.github.io/project-one/assets/favicons/manifest.json": "b3f5b4e6ec570cf85d45e50ba259a9f3df26ef43",
+      "https://debanjanbasu.github.io/project-one/assets/favicons/safari-pinned-tab.svg": "e9567b6d151b15336e66e217946d120c5f39416d",
+      "https://debanjanbasu.github.io/project-one/assets/fonts/droid-sans-mono-v7-latin-regular.woff": "78d0775bb0268859660ab648034fc697288e5012",
+      "https://debanjanbasu.github.io/project-one/assets/fonts/droid-sans-mono-v7-latin-regular.woff2": "8bebe0f1a9e566577890a5a0e10858cdae4f9cd9",
+      "https://debanjanbasu.github.io/project-one/index.html": "184d9a6fd8329fc4d0acc8e9cbaa3b67d2d2dd60"
+    },
+    "_generatedFromWebpack": true
+  }
+}
